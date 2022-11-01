@@ -2,10 +2,10 @@ import React from "react";
 
 const About = props => (
 
-    <aside className="About">
+    <div className="About">
         <h1>Sobre</h1>
-        <p>O nosso sitema foi  criado...</p>
-    </aside>
+        <h2>O nosso sitema foi  criado...</h2>
+    </div>
 
 )
 
